@@ -37,6 +37,7 @@ const PlatformIconList = ({ platforms }: Props) => {
           marginTop={1}
           marginRight={2}
           color="gray.500"
+          key={platform.id}
         >
           {platform.slug}
         </Icon>
