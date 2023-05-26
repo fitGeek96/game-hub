@@ -1,0 +1,27 @@
+[33m814c5f7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m Implement Searching
+[33m88cf024[m Build Search Input
+[33mca933cb[m Fix the Issue with Chakra Menus
+[33m48e0336[m Handle Game with no Image
+[33ma9973b2[m Sort the Games
+[33m68c18ec[m Build Sort Selector
+[33mb6853d1[m Refactor: Extract a query object
+[33m45366f3[m Filter Games by Platforms
+[33m88d1110[m Add platform selector
+[33m9271668[m Highlight the selected Genre
+[33m7c09400[m Add Filter Games by Genre
+[33m4ab8a8f[m Display Game Genre Skeleton
+[33m4f8bf2d[m Display Genres
+[33m76d126e[m Create a generic data fetching hook
+[33m342fd43[m Fetch Genres
+[33mf1ae8d5[m Remove Duplicated Styles
+[33m8fdb96f[m Show Loading Skeletons
+[33m3d399f1[m Get Optimized Images
+[33m483bbaf[m Displaying Critic score
+[33mf1dc640[m Displaying Platform Icons
+[33m975de69[m Building Game Cards
+[33mf870697[m Create a custom Hook to fetch games
+[33m2100b53[m Fetch the Games
+[33m15c4c93[m Build the color Mode Switch
+[33mf7ac754[m Build NavBar
+[33m21f39bd[m install chakra UI
+[33m85cc815[m initial commit
