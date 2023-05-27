@@ -1,3 +1,4 @@
+import { NumberDecrementStepperProps } from "@chakra-ui/react";
 import { GameQuery } from "../App";
 import useData from "./useData";
 import { Genre } from "./useGenres";
@@ -12,7 +13,8 @@ export interface Game {
     name: string;
     background_image: string;
     parent_platforms: { platform: Platform }[];
-    metacritic: number
+    metacritic: number;
+    rating_top: number;
   }
   
 
