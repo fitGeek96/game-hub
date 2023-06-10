@@ -49,7 +49,7 @@ function App() {
             onSelectGenre={(genre) =>
               setGameQuery({ ...gameQuery, genreId: genre.id })
             }
-            selectedGenre={gameQuery.genreId}
+            selectedGenreId={gameQuery.genreId}
           />
         </GridItem>
       </Show>
@@ -61,7 +61,7 @@ function App() {
               onSelectPlatform={(platform) =>
                 setGameQuery({ ...gameQuery, platformId: platform.id })
               }
-              selectedPlatform={gameQuery.platformId}
+              selectedPlatformId={gameQuery.platformId}
             />
           </Box>
           <SortSelector
